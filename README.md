@@ -1,4 +1,4 @@
-## Hi there 👋
+대학교에서 컴퓨터공학을 공부하고 있는 학생입니다.
 
 <!--
 **bIancspace/bIancspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
